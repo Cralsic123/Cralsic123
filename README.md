@@ -92,11 +92,9 @@ Find out more about me & feel free to connect with me here:
 
 [![Cralsic123's Trophies](https://github-profile-trophy.vercel.app/?username=Cralsic123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Cralsic123's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123)](https://github.com/Cralsic123)
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cralsic123&count_private=true&show_icons=true&include_all_commits=true)
-<img align="right" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123" alt="Cralsic123" /></p>
+<img align="right" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123" alt="Cralsic123" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cralsic123&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cralsic123.Cralsic123)
