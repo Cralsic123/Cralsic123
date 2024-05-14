@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 My name is Shuvam Das a senior student at IIT Dhanbad. I have a keen passion for machine learning and artificial intelligence. I have done many prior internships and also am an open-source contributor. You can look me up on my personal website [Shuvam Das](https://shuvamdasportfolio.netlify.app/)
 Find out more about me & feel free to connect with me here:
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Shuvam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuvam-das-898943248/)](https://www.linkedin.com/in/shuvam-das-898943248/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=green)](https://medium.com/@shuvam221)
 [![Gmail Badge](https://img.shields.io/badge/-ShuvamDas-c14438?style=flat-square&logo=Gmail&logoColor=green&link=mailto:shuvamd210@gmail.com)](mailto:shuvamd210@gmail.com)
