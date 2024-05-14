@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Good morning, good afternoon, and good evening.
 ### Welcome to my profile
 
-My name is Shuvam Das a senior student at IIT Dhanbad. I have a keen passion towards machine learning and artificial intelligence. I have done many prior internships and also am a open source contributor. You can look me up on my personal website
-I am Saksham Dwivedi, currently working as a NLP Engineer at [Enterpret](https://www.enterpret.com/). I am a AI developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+My name is Shuvam Das a senior student at IIT Dhanbad. I have a keen passion towards machine learning and artificial intelligence. I have done many prior internships and also am a open source contributor. You can look me up on my personal website [Shuvam Das](https://shuvamdasportfolio.netlify.app/)
+Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Shuvam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuvam-das-898943248/)](https://www.linkedin.com/in/shuvam-das-898943248/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=green)](https://medium.com/@shuvam221)
 [![Gmail Badge](https://img.shields.io/badge/-ShuvamDas-c14438?style=flat-square&logo=Gmail&logoColor=green&link=mailto:shuvamd210@gmail.com)](mailto:shuvamd210@gmail.com)
