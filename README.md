@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Good morning, good afternoon, and good evening.
 ### Welcome to my profile
 
-My name is Shuvam Das a senior student at IIT Dhanbad. I have a keen passion towards machine learning and artificial intelligence. I have done many prior internships and also am a open source contributor. You can look me up on my personal website [Shuvam Das](https://shuvamdasportfolio.netlify.app/)
+My name is Shuvam Das a senior student at IIT Dhanbad. I have a keen passion for machine learning and artificial intelligence. I have done many prior internships and also am an open-source contributor. You can look me up on my personal website [Shuvam Das](https://shuvamdasportfolio.netlify.app/)
 Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Shuvam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuvam-das-898943248/)](https://www.linkedin.com/in/shuvam-das-898943248/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=green)](https://medium.com/@shuvam221)
@@ -83,6 +83,12 @@ Find out more about me & feel free to connect with me here:
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ## Office
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cralsic123&count_private=true&show_icons=true&include_all_commits=true)
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123&" alt="Cralsic123" /></p>
