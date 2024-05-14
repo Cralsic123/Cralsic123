@@ -96,7 +96,7 @@ Find out more about me & feel free to connect with me here:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cralsic123&count_private=true&show_icons=true&include_all_commits=true)
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123&" alt="Cralsic123" /></p>
+<img align="right" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123" alt="Cralsic123" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cralsic123&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cralsic123.Cralsic123)
