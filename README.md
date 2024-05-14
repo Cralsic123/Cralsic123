@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<!--
+### Animated Repository Cards 🃏
+
+[![Animated Repository Cards](https://github-readme-stats.vercel.app/api/pin/?username=Cralsic123&repo=PS4E5_flood&animation=true&theme=radical)](https://github.com/Cralsic123/repository-name)
+
 <!--
 **Cralsic123/Cralsic123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -91,6 +97,9 @@ Find out more about me & feel free to connect with me here:
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ### GitHub Stats 📊
+
+[![Cralsic123's Commit Calendar](https://ghchart.rshah.org/Cralsic123)](https://github.com/Cralsic123)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cralsic123&show_icons=true&theme=radical&include_all_commits=true)
 <img align="right" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123&show_icons=true&theme=radical" alt="Cralsic123" /></p>
