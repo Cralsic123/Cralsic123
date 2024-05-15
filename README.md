@@ -100,8 +100,6 @@ Find out more about me & feel free to connect with me here:
 
 ### GitHub Stats 📊
 
-[![Cralsic123's Commit Calendar](https://ghchart.rshah.org/Cralsic123)](https://github.com/Cralsic123)
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cralsic123&show_icons=true&theme=radical&include_all_commits=true)
 <img align="right" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=Cralsic123&show_icons=true&theme=radical" alt="Cralsic123" /></p>
