@@ -74,7 +74,7 @@ Find out more about me & feel free to connect with me here:
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-## Frameworks, Platforms and libraries
+## Frameworks, Platforms, and libraries
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -105,7 +105,7 @@ Find out more about me & feel free to connect with me here:
 ### GitHub Stats 📊
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cralsic123&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cralsic123&hide=TeX&layout=compact&theme=merko)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cralsic123&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cralsic123.Cralsic123)
